@@ -8,7 +8,7 @@ export default function TimeLine() {
           <h2>Studies</h2>
         </div>
         <div className='flex justify-center pt-24'>
-          <ol className='relative border-l border-gray-400'>
+          <ol className='relative border-l border-neutral-300'>
             <li className='mb-10 ml-4'>
               <div className='flex flex-row items-center gap-4 pb-5'>
                 <div className='flex flex-row items-center'>
