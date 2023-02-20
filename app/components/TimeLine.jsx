@@ -15,7 +15,7 @@ export default function TimeLine() {
                   <div className='absolute w-3 h-3 bg-blue-200 rounded-full mt-1.5 -left-1.5'></div>
                   <Image
                     className='md:w-24 md:h-24'
-                    src={'/google.svg'}
+                    src={'/icons/google.svg'}
                     width={60}
                     height={60}
                     alt='Google logo'
@@ -37,7 +37,7 @@ export default function TimeLine() {
                   <div className='absolute w-3 h-3 bg-blue-200 rounded-full mt-1.5 -left-1.5'></div>
                   <Image
                     className='md:w-24 md:h-24'
-                    src={'/coderhouse.svg'}
+                    src={'/icons/coderhouse.svg'}
                     width={60}
                     height={60}
                     alt='Coderhouse logo'
@@ -59,7 +59,7 @@ export default function TimeLine() {
                   <div className='absolute w-3 h-3 bg-blue-200 rounded-full mt-1.5 -left-1.5'></div>
                   <Image
                     className='md:w-24 md:h-24'
-                    src={'/coderhouse.svg'}
+                    src={'/icons/coderhouse.svg'}
                     width={60}
                     height={60}
                     alt='Coderhouse logo'
@@ -81,7 +81,7 @@ export default function TimeLine() {
                   <div className='absolute w-3 h-3 bg-blue-200 rounded-full mt-1.5 -left-1.5'></div>
                   <Image
                     className='md:w-24 md:h-24'
-                    src={'/coderhouse.svg'}
+                    src={'/icons/coderhouse.svg'}
                     width={60}
                     height={60}
                     alt='Coderhouse logo'
@@ -103,7 +103,7 @@ export default function TimeLine() {
                   <div className='absolute w-3 h-3 bg-blue-200 rounded-full mt-1.5 -left-1.5'></div>
                   <Image
                     className='md:w-24 md:h-24'
-                    src={'/coderhouse.svg'}
+                    src={'/icons/coderhouse.svg'}
                     width={60}
                     height={60}
                     alt='Coderhouse logo'

@@ -38,7 +38,7 @@ export default function Footer() {
             >
               <Image
                 className='focus:text-primary md:focus:text-primary lg:focus:text-primary xl:focus:text-primary'
-                src={'/github.svg'}
+                src={'/icons/github.svg'}
                 width={24}
                 height={24}
                 alt='Github profile'
@@ -53,7 +53,7 @@ export default function Footer() {
             >
               <Image
                 className='focus:text-primary md:focus:text-primary lg:focus:text-primary xl:focus:text-primary'
-                src={'/linkedin.svg'}
+                src={'/icons/linkedin.svg'}
                 width={22}
                 height={22}
                 alt='LinkedIn profile'
@@ -68,7 +68,7 @@ export default function Footer() {
             >
               <Image
                 className='focus:text-primary md:focus:text-primary lg:focus:text-primary xl:focus:text-primary'
-                src={'/spotify.svg'}
+                src={'/icons/spotify.svg'}
                 width={24}
                 height={24}
                 alt='Spotify profile'

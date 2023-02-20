@@ -23,7 +23,7 @@ export default function Navigation() {
         <div className='flex flex-row md:justify-between justify-between items-center xl:max-w-full lg:max-w-full md:max-w-full max-w-full md:h-20 h-14 xl:fixed lg:fixed md:fixed fixed border-b bg-neutral-50/70 top-0 right-0 left-0 z-50 backdrop-blur-md border-neutral-300 lg:pl-16 md:pl-8 pl-3 lg:pr-16 md:pr-8 pr-3'>
           <div className='flex items-center'>
             <a href='/'>
-              <Image src={'/logo.svg'} width={40} height={40} alt='logo' />
+              <Image src={'/icons/logo.svg'} width={40} height={40} alt='logo' />
             </a>
           </div>
           <div className='flex flex-row gap-5 items-center'>
@@ -41,7 +41,7 @@ export default function Navigation() {
               target='_blank'
               rel='noreferrer noopener'
             >
-              <Image className='focus:text-primary md:focus:text-primary lg:focus:text-primary xl:focus:text-primary' src={'/github.svg'} width={32} height={32} alt='logo' />
+              <Image className='focus:text-primary md:focus:text-primary lg:focus:text-primary xl:focus:text-primary' src={'/icons/github.svg'} width={32} height={32} alt='logo' />
             </a>
           </div>
         </div>
