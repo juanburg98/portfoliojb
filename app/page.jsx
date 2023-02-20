@@ -6,14 +6,14 @@ export default function Home() {
     <main className='container mx-auto'>
       <section className='flex flex-col justify-center items-center text-center'>
       <Status />
-        <div className='font-sans font-black text-primary text-8xl pt-6'>
+        <div className='font-sans font-bold text-primary md:text-8xl text-5xl pt-6'>
           <h1>Hello, I&apos;m</h1>
           <h2>Juan Burgueño</h2>
         </div>
-        <div className='font-sans text-secondary font-normal text-xl pt-9'>
+        <div className='font-sans text-secondary font-normal md:text-xl text-lg md:pt-9 pt-5'>
           <h3>Front-End Developer</h3>
         </div>
-        <div className='font-sans text-secondary font-normal text-lg w-1/2 pt-14'>
+        <div className='font-sans text-secondary font-normal md:text-lg text-base md:w-1/2 w-10/12 md:pt-14 pt-9'>
           <p>
             I&apos;m from Canelones, Uruguay and I&apos;m 25 years old, I focus
             on design and user experience seeking a usable, inclusive and
@@ -27,11 +27,11 @@ export default function Home() {
       </section>
       <TimeLine />
       <section className='flex flex-col justify-center items-center text-center'>
-        <div className='font-sans font-black text-primary text-6xl pt-32'>
+        <div className='font-sans font-bold text-primary md:text-6xl text-4xl pt-32'>
           <h2>My Toolbox &</h2>
           <h2>Things I can do</h2>
         </div>
-        <div className='flex flex-row pt-16 gap-4 font-sans text-secondary font-bold text-5xl'>
+        <div className='flex md:flex-row flex-col md:pt-16 pt-9 md:gap-4 gap-2 font-sans text-secondary font-bold md:text-5xl text-3xl'>
           <p>NextJS 13</p>
           <p>Git</p>
           <p>ReactJS</p>

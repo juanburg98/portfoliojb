@@ -2,7 +2,7 @@ import Image from "next/image"
 export default function Card() {
   return (
     <>
-      <div className="w-2/5 h-auto border border-solid shadow-lg rounded-xl">
+      <div className="md:w-2/5 w-11/12 h-auto border border-solid shadow-lg rounded-xl">
         <div className="flex justify-center">
         <Image
         className="p-3"
