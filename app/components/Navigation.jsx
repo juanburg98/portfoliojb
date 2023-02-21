@@ -36,7 +36,7 @@ export default function Navigation() {
             </ul>
             <a
               className='md:p-2 lg:p-2 xl:p-2 md:hover:bg-blue-200 md:hover:rounded-md lg:hover:bg-blue-200 lg:hover:rounded-md xl:hover:bg-blue-200 xl:hover:rounded-md'
-              href='https://github.com/juanburg98'
+              href='https://github.com/juanburg98/portfoliojb'
               aria-label='View Source Code'
               target='_blank'
               rel='noreferrer noopener'
