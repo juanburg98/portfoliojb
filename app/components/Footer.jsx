@@ -21,7 +21,7 @@ export default function Footer() {
     <>
       <footer>
         <div className='flex flex-col md:flex-row md:justify-between items-center md:mx-16 md:pt-32 pt-16'>
-          <ul className='md:flex flex  flex-row md:flex-row justify-items-center grid-cols-2 md:gap-3 gap-y-3 gap-x-6 font-sans md:text-base text-base font-normal text-secondary'>
+          <ul className='md:flex flex flex-row md:flex-row justify-items-center grid-cols-2 md:gap-3 gap-y-3 gap-x-6 font-sans md:text-base text-base font-normal text-secondary'>
             {links.map(({ label, route }) => (
               <li className='focus:text-primary md:focus:text-primary lg:focus:text-primary xl:focus:text-primary md:p-2 lg:p-2 xl:p-2 md:hover:bg-blue-200 md:hover:rounded-md lg:hover:bg-blue-200 lg:hover:rounded-md xl:hover:bg-blue-200 xl:hover:rounded-md' key={route}>
                 <Link href={route}>{label}</Link>

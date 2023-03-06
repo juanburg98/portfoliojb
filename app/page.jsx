@@ -13,7 +13,7 @@ export default function Home() {
         <div className='font-sans text-secondary font-normal md:text-xl xl:text-2xl text-lg md:pt-9 pt-5'>
           <h3>Front-End Developer</h3>
         </div>
-        <div className='font-sans text-secondary font-normal xl:text-xl lg:text-lg md:text-base text-base md:w-1/2 w-10/12 md:pt-14 pt-9'>
+        <div className='font-sans text-secondary font-normal xl:text-xl lg:text-lg md:text-base text-base md:w-3/5 w-10/12 md:pt-14 pt-9'>
           <p>
             I&apos;m from Canelones, Uruguay and I&apos;m 25 years old, I focus
             on design and user experience seeking a usable, inclusive and

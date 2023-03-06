@@ -9,7 +9,7 @@ export default function Extensions() {
           <p>Here is the list of my favorite extensions that I love to use every day for programming.</p>
         </div>
         <div>
-          <h3 className='font-sans text-accent font-medium text-2xl pt-12 pl-3'>Extensions:</h3>
+          <h3 className='font-sans text-tertiary font-medium text-2xl pt-12 pl-3'>Extensions:</h3>
           <h4 className='font-sans text-primary font-medium md:text-2xl text-xl pt-8 pl-3'>One Dark Theme</h4>
           <p className='font-sans text-secondary font-normal lg:text-lg md:text-base text-base w-11/12 pl-3'>The theme that I use all the time.</p>
         </div>

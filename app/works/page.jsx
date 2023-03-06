@@ -7,7 +7,6 @@ export default function Works() {
       </div>
       <div className="flex md:flex-row flex-col justify-center items-center pt-12 gap-5">
       <Card />
-      <Card />
       </div>
     </div>
   );
