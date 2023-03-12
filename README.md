@@ -8,15 +8,15 @@
 ## Installation
 
 1. Clone this repository
-```sh
+```ruby
 git clone https://github.com/juanburg98/portfoliojb.git
 ```
 2. Change directories
-```sh
+```ruby
 cd portfoliojb
 ```
 3. Install dependencies
-```sh
+```ruby
 npm install
 ```
 ## Tech Stack
